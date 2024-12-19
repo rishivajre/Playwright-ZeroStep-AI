@@ -1,7 +1,7 @@
 # Playwright-ZeroStep-AI
 Flaky Prompts, Hybrid Approaches, and AI Ambiguity: The Real Challenges of AI Testing
 
-🚀 Balancing Innovation with Caution in AI Testing 🌟
+🚀 Balancing Innovation with Caution in AI Testing [Watch on YoutTube⏬]
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SNPxWXH0Nnw/0.jpg)](https://www.youtube.com/watch?v=SNPxWXH0Nnw)
 
