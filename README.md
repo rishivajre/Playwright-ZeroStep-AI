@@ -3,6 +3,8 @@ Flaky Prompts, Hybrid Approaches, and AI Ambiguity: The Real Challenges of AI Te
 
 🚀 Balancing Innovation with Caution in AI Testing 🌟
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/SNPxWXH0Nnw/0.jpg)](https://www.youtube.com/watch?v=SNPxWXH0Nnw)
+
 AI-powered testing tools like ZerostepAI promise to revolutionize how we approach automation, offering intelligent solutions for faster and smarter test execution. But as exciting as this innovation is, it's critical to evaluate their limitations and potential risks alongside their strengths.
 
 💡 In one of my recent experiments combining ZerostepAI with Playwright, I discovered:
